@@ -1,4 +1,4 @@
-package com.lavendor.wordcount;
+package com.lavendor.hadoop.wordcount;
 
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;

@@ -1,4 +1,4 @@
-package com.lavendor;
+package com.lavendor.hadoop;
 
 import javax.xml.soap.Text;
 import java.text.ParseException;

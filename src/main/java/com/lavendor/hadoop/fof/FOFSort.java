@@ -1,4 +1,4 @@
-package com.lavendor.fof;
+package com.lavendor.hadoop.fof;
 
 import org.apache.hadoop.io.WritableComparable;
 import org.apache.hadoop.io.WritableComparator;

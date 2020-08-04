@@ -1,4 +1,4 @@
-package com.lavendor.weather;
+package com.lavendor.hadoop.weather;
 
 import com.google.gson.annotations.Since;
 import org.apache.hadoop.io.WritableComparable;
